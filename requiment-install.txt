@@ -1,0 +1,13 @@
+pip install opencv-python
+pip install matplotlib   
+pip install scikit-image
+pip install requests
+
+
+pip install pymongo 
+pip install mysql-connector-python-rf
+pip install mysql-connector
+
+
+
+pip install cx_oracle
